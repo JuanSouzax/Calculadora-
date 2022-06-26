@@ -1,0 +1,14 @@
+button{
+    font-size: 18px;
+    background-color: rosybrown;
+    color: black;
+    border: none;
+}
+.resultado{
+    font-size: 20px;
+    color: black;
+}
+.conteudo{
+    background-color:cornflowerblue;
+    text-align: center;
+}
